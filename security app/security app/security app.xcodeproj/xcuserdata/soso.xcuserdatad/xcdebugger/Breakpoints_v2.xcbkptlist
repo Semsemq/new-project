@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5F6F7609-E82D-438A-BA29-A637A7D8B997"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "567AFBFF-8E79-43F0-8186-033AC54F10D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "security app/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "567AFBFF-8E79-43F0-8186-033AC54F10D4 - 79c20fb92f3572db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "security_app.ViewController.textfield.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "security app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/soso/Desktop/security%20app/security%20app/security%20app/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "567AFBFF-8E79-43F0-8186-033AC54F10D4 - a9f0f90d22f25ed7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "security_app.ViewController.textfield.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "security app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/soso/Desktop/security%20app/security%20app/security%20app/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "567AFBFF-8E79-43F0-8186-033AC54F10D4 - bc2dd89ecec857d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "security_app.ViewController.textfield.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "security app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/soso/Desktop/security%20app/security%20app/security%20app/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "567AFBFF-8E79-43F0-8186-033AC54F10D4 - 8eed3cf40d9570f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "security_app.ViewController.textfield.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "security app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/soso/Desktop/security%20app/security%20app/security%20app/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "567AFBFF-8E79-43F0-8186-033AC54F10D4 - 79f99d4e954e66b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "security_app.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; security_app.ViewController"
+                  moduleName = "security app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/soso/Desktop/security%20app/security%20app/security%20app/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "223">
+               </Location>
+               <Location
+                  uuid = "567AFBFF-8E79-43F0-8186-033AC54F10D4 - 413f18b30f6d90a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "security_app.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;security_app.ViewController&gt;"
+                  moduleName = "security app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/soso/Desktop/security%20app/security%20app/security%20app/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

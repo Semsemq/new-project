@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; configuration.title = "Choose the apps you want to lock"; ObjectID = "6x9-Qy-Pwc"; */
+"6x9-Qy-Pwc.configuration.title" = "Choose the apps you want to lock";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6x9-Qy-Pwc"; */
+"6x9-Qy-Pwc.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "If you want to choose a custom lock"; ObjectID = "tr2-DY-KA7"; */
+"tr2-DY-KA7.configuration.title" = "If you want to choose a custom lock";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tr2-DY-KA7"; */
+"tr2-DY-KA7.normalTitle" = "Button";

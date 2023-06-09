@@ -1,0 +1,47 @@
+{
+  "configurations" : [
+    {
+      "id" : "6AA71808-FB56-4BE0-B5D0-BA09A9FA7DDA",
+      "name" : "Test Scheme Action",
+      "options" : {
+        "areLocalizationScreenshotsEnabled" : true,
+        "region" : "SA",
+        "repeatInNewRunnerProcess" : true,
+        "testRepetitionMode" : "retryOnFailure",
+        "testTimeoutsEnabled" : true
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "areLocalizationScreenshotsEnabled" : true,
+    "codeCoverage" : false,
+    "locationScenario" : {
+      "identifier" : "London, England",
+      "referenceType" : "built-in"
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:security app.xcodeproj",
+      "identifier" : "9C4DC0832A281F2500754222",
+      "name" : "security app"
+    },
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:security app.xcodeproj",
+        "identifier" : "9C4DC09C2A281F2800754222",
+        "name" : "security appTests"
+      }
+    },
+    {
+      "enabled" : false,
+      "target" : {
+        "containerPath" : "container:security app.xcodeproj",
+        "identifier" : "9C4DC0A62A281F2800754222",
+        "name" : "security appUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
